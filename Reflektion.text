@@ -1,1 +1,26 @@
+# Reflektion
 
+När jag började den här kursen hade jag en ganska vag uppfattning om vad mjukvaruutveckling egentligen innebar. 
+Jag visste att det handlade om kod, men inte hur mycket mer det faktiskt är.
+Nu efter några veckor har jag fått upp ögonen för hur mycket struktur, samarbete och verktyg som ligger bakom allt. 
+Det har varit både utmanande och kul att få testa på saker som GitHub, branches och pull requests – sånt som jag tidigare bara hört om men aldrig riktigt förstått. 
+Jag känner att jag har börjat bygga en grund att stå på, och det känns faktiskt rätt häftigt.
+
+DevOps var ett ord jag knappt hade hört innan kursen, och om jag ska vara ärlig så lät det först ganska tekniskt och svårt. Men ju mer vi har jobbat med det, desto mer har jag börjat förstå hur viktigt det är. 
+För mig handlar DevOps om att få saker att flyta bättre, att slippa göra allt manuellt och istället låta systemet hjälpa till med testning och leverans.
+Jag märkte själv hur mycket enklare det blev när vi använde GitHub Actions för att automatisera delar av processen – det kändes som att jag tog ett kliv närmare hur riktiga utvecklare jobbar. 
+Om jag skulle förklara DevOps för en kompis skulle jag säga att det är som att ha en assistent som ser till att allt funkar i bakgrunden, så att du kan fokusera på att bygga något bra.
+
+Molnet har vart en av dom mest spännande delarna hittils. 
+Jag hade hört om det innan, men nu fattar jag mer vad det faktiskt går ut på – att kunna köra system och spara data utan att behöva tänka på servrar och sånt. 
+Det känns både smart och lite konstigt att allt ligger “någon annanstans”.
+Men jag gillar ändå att det gör saker mer flexibelt och lättare att jobba med, speciellt när man är flera.
+
+Att jobba som systemutvecklare i ett team är nåt jag börjar fatta mer nu. Det handlar inte bara om att skriva kod själv, utan också om att snacka ihop sig, dela upp grejer och lösa problem tillsammans.
+Jag märkte det särskilt när jag glömde att uppdatera en branch ordentligt, och det blev konflikt med min main branch istället. 
+Jag försökte lösa det, men det blev så rörigt att jag till slut var tvungen att skapa ett nytt repo och börja om. Det var lite frustrerande, men jag lärde mig mycket av det – framför allt hur viktigt det är med struktur och att hålla koll på vad man gör.
+
+Det jag tyckt varit mest intressant under kursen är att få jobba med riktiga grejer som GitHub och GitHub Actions.
+Det har varit nåt helt annat än bara sitta och koda själv – nu har jag fått känna på hur det funkar på riktigt. 
+Jag har gjort misstag, fått lösa strul och lärt mig massa grejer jag inte ens visste att jag behövde kunna. 
+Det har varit rätt intensivt, men också kul. Jag är inte expert direkt, men jag har kommit igång, och det känns som jag är på väg nånstans.
