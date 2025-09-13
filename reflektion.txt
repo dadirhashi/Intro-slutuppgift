@@ -1,0 +1,28 @@
+- Vad är skillnaden mellan IaaS, PaaS och SaaS? 
+
+Jag brukar tänka på det som tre olika nivåer av hjälp från molnet. Med IaaS får du själva infrastrukturen – typ som att hyra en tom server där du själv måste installera allt.
+Det är flexibelt men kräver att du har koll på tekniken.
+PaaS är som att få en färdig arbetsyta där du bara fokuserar på att skriva kod – du slipper tänka på servrar, uppdateringar och säkerhet, det är där vi utvecklare hamnar. 
+Och SaaS är det enklaste: du använder färdiga program direkt via webben, som Gmail eller Teams, utan att bry dig om vad som händer bakom kulisserna. 
+För mig är det lite som att välja mellan att bygga ett hus själv, hyra ett färdigmöblerat kontor, eller bara gå in på ett café där allt redan är klart.
+
+
+- Vad gör Git och vad är GitHub? 
+
+Git är som ett smart verktyg som håller koll på alla ändringar jag gör i koden – typ som ett historiskt arkiv där jag kan gå tillbaka om något går snett. 
+GitHub är stället där jag laddar upp mitt kodprojekt, samarbetar med andra och till och med kan köra automatiska tester. Det är som mitt digitala arbetsrum.
+
+- Vad är ett informationssystem?
+
+Jag ser det som ett system som hjälper företag eller organisationer att hantera sin information på ett strukturerat sätt.
+Det handlar inte bara om teknik, utan också om människor och rutiner som tillsammans gör att data kan samlas in, bearbetas och användas på ett smart sätt. Lite som ett nervsystem för verksamheten.
+
+- Vad är CIA-triaden? 
+
+Det är tre grundpelare inom IT-säkerhet som jag tycker är ganska logiska: sekretess (att bara rätt personer får se datan), integritet (att datan inte manipuleras) och tillgänglighet (att systemet funkar när det behövs). 
+Jag tänker på det som ett säkerhetsfilter som alltid borde vara på plats.
+
+-  Vad är Continuous Integration (CI)? 
+
+För mig betyder CI att jag hela tiden laddar upp min kod till ett gemensamt repo, och låter automatiska tester köra direkt. Det gör att jag snabbt ser om något gått fel – istället för att upptäcka buggar långt senare som kan göra det hela mer komplicerat än det egentligen behöver vara. 
+Det känns som ett tryggt sätt att jobba, särskilt när man är flera i ett team.
